@@ -6,6 +6,8 @@ The **Weekly Trivia Tournament** is a blockchain-powered decentralized platform 
 
 ## Contract Address
 0x7612F2Cf834C49265A74d3743D91264F8B095Df6
+![image](https://github.com/user-attachments/assets/110bf1a1-bff2-46cc-8841-f40891c08917)
+
 ## Key Features
 1. **Join Trivia Competitions**: Users can participate in weekly tournaments by paying a participation fee.
 2. **Prize Pool Accumulation**: All participation fees are pooled together to form the prize pool for the winner.
